@@ -13,3 +13,12 @@ a single digit. Add the two numbers and return it as a linked list.
 [Solution](solutions/day_01.py)
 
 --- 
+
+### Problem 2
+This problem was asked by Microsoft.
+
+Given a string, find the length of the longest substring without repeating characters.
+
+[Solution](solutions/day_02.py)
+
+--- 
