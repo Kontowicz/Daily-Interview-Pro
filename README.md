@@ -46,3 +46,13 @@ An input string is valid if:
 [Solution](solutions/day_04.py)
 
 --- 
+
+### Problem 5
+This problem was asked by AirBNB.
+
+Given a sorted array, A, with possibly duplicated elements, find the indices of the first and last occurrences of a target element, x. Return -1 if the target is not found.
+
+
+[Solution](solutions/day_05.py)
+
+--- 
