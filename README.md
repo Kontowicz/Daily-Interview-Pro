@@ -56,3 +56,12 @@ Given a sorted array, A, with possibly duplicated elements, find the indices of 
 [Solution](solutions/day_05.py)
 
 --- 
+
+### Problem 6
+This problem was asked by Google.
+
+Given a singly-linked list, reverse the list. This can be done iteratively or recursively. Can you get both solutions?
+
+[Solution](solutions/day_06.py)
+
+--- 
