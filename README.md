@@ -65,3 +65,12 @@ Given a singly-linked list, reverse the list. This can be done iteratively or re
 [Solution](solutions/day_06.py)
 
 --- 
+
+### Problem 7
+This problem was asked by Facebook.
+
+You are given a list of numbers, and a target number k. Return whether or not there are two numbers in the list that add up to k.
+
+[Solution](solutions/day_07.py)
+
+--- 
