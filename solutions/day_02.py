@@ -1,4 +1,3 @@
-
 class Solution:
     def lengthOfLongestSubstring(self, string):
     # Fill this in.
@@ -24,4 +23,5 @@ class Solution:
         return max_len
 
 print(Solution().lengthOfLongestSubstring('abrkaabcdefghijjxxx'))
-# 10
+assert Solution().lengthOfLongestSubstring('abrkaabcdefghijjxxx') == 10
+print('Test pass.')

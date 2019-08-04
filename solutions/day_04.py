@@ -16,16 +16,13 @@ class Solution:
         return len(stack) == 0
 
 
-# Test Program
 s = "()(){(())"
-# should return False
 assert Solution().isValid(s) == False
 
 s = ""
 assert Solution().isValid(s) == True
 
 s = "([{}])()"
-# should return True
 assert Solution().isValid(s) == True
 
 print('Test pass.')

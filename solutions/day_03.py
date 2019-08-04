@@ -1,4 +1,3 @@
-
 class Solution:
     def longestPalindrome(self, string):
         def isPaindrom(string):
@@ -16,4 +15,5 @@ class Solution:
 # Test program
 s = "tracecars"
 print(str(Solution().longestPalindrome(s)))
-# racecar
+assert str(Solution().longestPalindrome(s)) == 'racecar'
+print('Test pass.')

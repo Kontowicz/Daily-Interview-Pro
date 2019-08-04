@@ -67,10 +67,28 @@ Given a singly-linked list, reverse the list. This can be done iteratively or re
 --- 
 
 ### Problem 7
+This problem was asked by Google.
+
+Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time.
+
+[Solution](solutions/day_07.py)
+
+--- 
+
+### Problem 8
 This problem was asked by Facebook.
 
 You are given a list of numbers, and a target number k. Return whether or not there are two numbers in the list that add up to k.
 
-[Solution](solutions/day_07.py)
+[Solution](solutions/day_08.py)
+
+--- 
+
+### Problem 9
+This problem was asked by Facebook.
+
+Given a list of numbers, where every number shows up twice except for one number, find that one number.
+
+[Solution](solutions/day_09.py)
 
 --- 
