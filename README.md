@@ -6,9 +6,7 @@ Solutions to problems sent by [Daily Interview Pro](https://www.techseries.dev/d
 ### Problem 1
 This problem was asked by Microsoft.
 
-You are given two linked-lists representing two non-negative integers. 
-The digits are stored in reverse order and each of their nodes contain 
-a single digit. Add the two numbers and return it as a linked list.
+You are given two linked-lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
 [Solution](solutions/day_01.py)
 
@@ -38,6 +36,7 @@ This problem was asked by Uber.
 Imagine you are building a compiler. Before running any code, the compiler must check that the parentheses in the program are balanced. Every opening bracket must have a corresponding closing bracket. We can approximate this using strings.
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
 An input string is valid if:
 - Open brackets are closed by the same type of brackets.
 - Open brackets are closed in the correct order.
@@ -91,5 +90,15 @@ This problem was asked by Facebook.
 Given a list of numbers, where every number shows up twice except for one number, find that one number.
 
 [Solution](solutions/day_09.py)
+
+--- 
+
+### Problem 10
+This problem was asked by Microsoft.
+
+You are given an array of integers in an arbitrary order. Return whether or not it is possible to make the array non-decreasing by modifying at most 1 element to any value.
+We define an array is non-decreasing if array[i] <= array[i + 1] holds for every i (1 <= i < n).
+
+[Solution](solutions/day_10.py)
 
 --- 
