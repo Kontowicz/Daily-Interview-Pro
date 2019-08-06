@@ -102,3 +102,12 @@ We define an array is non-decreasing if array[i] <= array[i + 1] holds for every
 [Solution](solutions/day_10.py)
 
 --- 
+
+### Problem 11
+This problem was asked by Apple.
+
+Given an integer k and a binary search tree, find the floor (less than or equal to) of k, and the ceiling (larger than or equal to) of k. If either does not exist, then print them as None.
+
+[Solution](solutions/day_11.py)
+
+--- 
