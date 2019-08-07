@@ -111,3 +111,12 @@ Given an integer k and a binary search tree, find the floor (less than or equal 
 [Solution](solutions/day_11.py)
 
 --- 
+
+### Problem 12
+This problem was asked by Twitter.
+
+You are given the root of a binary tree. Invert the binary tree in place. That is, all left children should become right children, and all right children should become left children.
+
+[Solution](solutions/day_12.py)
+
+--- 
