@@ -120,3 +120,12 @@ You are given the root of a binary tree. Invert the binary tree in place. That i
 [Solution](solutions/day_12.py)
 
 --- 
+
+### Problem 13
+This problem was asked by Twitter.
+
+Implement a class for a stack that supports all the regular functions (push, pop) and an additional function of max() which returns the maximum element in the stack (return None if the stack is empty). Each method should run in constant time.
+
+[Solution](solutions/day_13.py)
+
+--- 
