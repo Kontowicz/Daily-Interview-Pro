@@ -129,3 +129,13 @@ Implement a class for a stack that supports all the regular functions (push, pop
 [Solution](solutions/day_13.py)
 
 --- 
+
+
+### Problem 14
+This problem was asked by LinkedIn.
+
+You are given a positive integer N which represents the number of steps in a staircase. You can either climb 1 or 2 steps at a time. Write a function that returns the number of unique ways to climb the stairs.
+
+[Solution](solutions/day_14.py)
+
+--- 
