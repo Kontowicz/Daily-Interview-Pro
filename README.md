@@ -139,3 +139,12 @@ You are given a positive integer N which represents the number of steps in a sta
 [Solution](solutions/day_14.py)
 
 --- 
+
+### Problem 15
+This problem was asked by Uber.
+
+Given a list of numbers, find if there exists a pythagorean triplet in that list. A pythagorean triplet is 3 variables a, b, c where a^2 + b^2 = c^2
+
+[Solution](solutions/day_15.py)
+
+--- 
