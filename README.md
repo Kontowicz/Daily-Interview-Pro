@@ -148,3 +148,12 @@ Given a list of numbers, find if there exists a pythagorean triplet in that list
 [Solution](solutions/day_15.py)
 
 --- 
+
+### Problem 16
+This problem was asked by AirBNB.
+
+Given two strings, determine the edit distance between them. The edit distance is defined as the minimum number of edits (insertion, deletion, or substitution) needed to change one string to the other.
+
+[Solution](solutions/day_16.py)
+
+--- 
