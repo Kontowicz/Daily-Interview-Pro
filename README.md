@@ -157,3 +157,12 @@ Given two strings, determine the edit distance between them. The edit distance i
 [Solution](solutions/day_16.py)
 
 --- 
+
+### Problem 17
+This problem was asked by Google.
+
+Given a mathematical expression with just single digits, plus signs, negative signs, and brackets, evaluate the expression. Assume the expression is properly formed.
+
+[Solution](solutions/day_17.py)
+
+--- 
