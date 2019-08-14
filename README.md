@@ -166,3 +166,12 @@ Given a mathematical expression with just single digits, plus signs, negative si
 [Solution](solutions/day_17.py)
 
 --- 
+
+### Problem 18
+This problem was asked by Facebook.
+
+Given a sequence of numbers, find the longest sequence that contains only 2 unique numbers.
+
+[Solution](solutions/day_18.py)
+
+--- 
