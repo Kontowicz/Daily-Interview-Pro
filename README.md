@@ -175,3 +175,12 @@ Given a sequence of numbers, find the longest sequence that contains only 2 uniq
 [Solution](solutions/day_18.py)
 
 --- 
+
+### Problem 19
+This problem was asked by Amazon.
+
+You are given a 2D array of characters, and a target string. Return whether or not the word target word exists in the matrix. Unlike a standard word search, the word must be either going left-to-right, or top-to-bottom in the matrix.
+
+[Solution](solutions/day_19.py)
+
+--- 
