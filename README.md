@@ -184,3 +184,12 @@ You are given a 2D array of characters, and a target string. Return whether or n
 [Solution](solutions/day_19.py)
 
 --- 
+
+### Problem 20
+This problem was asked by Amazon.
+
+Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead.
+
+[Solution](solutions/day_20.py)
+
+--- 
