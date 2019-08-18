@@ -193,3 +193,21 @@ Given an array of n positive integers and a positive integer s, find the minimal
 [Solution](solutions/day_20.py)
 
 --- 
+
+### Problem 21
+This problem was asked by Microsoft.
+
+You 2 integers n and m representing an n by m grid, determine the number of ways you can get from the top-left to the bottom-right of the matrix y going only right or down.
+
+[Solution](solutions/day_21.py)
+
+--- 
+
+### Problem 22
+This problem was asked by Apple.
+
+You are given two singly linked lists. The lists intersect at some node. Find, and return the node. Note: the lists are non-cyclical.
+
+[Solution](solutions/day_22.py)
+
+--- 
