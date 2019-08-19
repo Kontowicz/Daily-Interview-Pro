@@ -211,3 +211,12 @@ You are given two singly linked lists. The lists intersect at some node. Find, a
 [Solution](solutions/day_22.py)
 
 --- 
+
+### Problem 23
+This problem was asked by Uber.
+
+Given a linked list of integers, remove all consecutive nodes that sum up to 0.
+
+[Solution](solutions/day_23.py)
+
+--- 
