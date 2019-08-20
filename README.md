@@ -220,3 +220,12 @@ Given a linked list of integers, remove all consecutive nodes that sum up to 0.
 [Solution](solutions/day_23.py)
 
 --- 
+
+### Problem 24
+This problem was asked by AirBNB.
+
+You are given a singly linked list and an integer k. Return the linked list, removing the k-th last element from the list. 
+
+[Solution](solutions/day_24.py)
+
+--- 
