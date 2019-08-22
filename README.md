@@ -238,3 +238,12 @@ There are n people lined up, and each have a height represented as an integer. A
 [Solution](solutions/day_25.py)
 
 --- 
+
+### Problem 25
+This problem was asked by Google.
+
+There are n people lined up, and each have a height represented as an integer. A murder has happened right in front of them, and only people who are taller than everyone in front of them are able to see what has happened. How many witnesses are there? 
+
+[Solution](solutions/day_25.py)
+
+--- 
