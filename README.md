@@ -247,3 +247,19 @@ There are n people lined up, and each have a height represented as an integer. A
 [Solution](solutions/day_25.py)
 
 --- 
+### Problem 26
+This problem was asked by Google.
+
+You are given a hash table where the key is a course code, and the value is a list of all the course codes that are prerequisites for the key. Return a valid ordering in which we can complete the courses. If no such ordering exists, return NULL.
+
+[Solution](solutions/day_25.py)
+
+--- 
+### Problem 27
+This problem was asked by Facebook.
+
+Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements. 
+
+[Solution](solutions/day_27.py)
+
+--- 
