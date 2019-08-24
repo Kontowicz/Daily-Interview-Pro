@@ -254,12 +254,22 @@ You are given a hash table where the key is a course code, and the value is a li
 
 [Solution](solutions/day_25.py)
 
---- 
+---
+ 
 ### Problem 27
 This problem was asked by Facebook.
 
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements. 
 
 [Solution](solutions/day_27.py)
+
+--- 
+
+### Problem 28
+This problem was asked by Facebook.
+
+Given a list, find the k-th largest element in the list. 
+
+[Solution](solutions/day_28.py)
 
 --- 
