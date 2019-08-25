@@ -273,3 +273,12 @@ Given a list, find the k-th largest element in the list.
 [Solution](solutions/day_28.py)
 
 --- 
+
+### Problem 29
+This problem was asked by Amazon.
+
+You are given a 2D array of integers. Print out the clockwise spiral traversal of the matrix. 
+
+[Solution](solutions/day_29.py)
+
+--- 
