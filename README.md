@@ -282,3 +282,12 @@ You are given a 2D array of integers. Print out the clockwise spiral traversal o
 [Solution](solutions/day_29.py)
 
 --- 
+
+### Problem 30
+This problem was asked by Microsoft.
+
+You are given an array of integers. Return the largest product that can be made by multiplying any 3 integers in the array. 
+
+[Solution](solutions/day_30.py)
+
+--- 
