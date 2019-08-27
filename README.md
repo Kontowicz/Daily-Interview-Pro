@@ -291,3 +291,12 @@ You are given an array of integers. Return the largest product that can be made 
 [Solution](solutions/day_30.py)
 
 --- 
+
+### Problem 31
+This problem was asked by Microsoft.
+
+You are given an array of intervals - that is, an array of tuples (start, end). The array may not be sorted, and could contain overlapping intervals. Return another array where the overlapping intervals are merged. 
+
+[Solution](solutions/day_31.py)
+
+--- 
