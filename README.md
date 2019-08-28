@@ -300,3 +300,12 @@ You are given an array of intervals - that is, an array of tuples (start, end). 
 [Solution](solutions/day_31.py)
 
 --- 
+
+### Problem 32
+This problem was asked by Apple.
+
+You are given an array. Each element represents the price of a stock on that particular day. Calculate and return the maximum profit you can make from buying and selling that stock only once. 
+
+[Solution](solutions/day_32.py)
+
+--- 
