@@ -318,3 +318,30 @@ Implement a queue class using two stacks. A queue is a data structure that suppo
 [Solution](solutions/day_33.py)
 
 --- 
+
+### Problem 34
+This problem was asked by Twitter.
+
+You are given an array of integers. Find the maximum sum of all possible contiguous subarrays of the array.
+
+[Solution](solutions/day_34.py)
+
+--- 
+
+### Problem 35
+This problem was asked by Twitter.
+
+You are given an array of k sorted singly linked lists. Merge the linked lists into a single sorted linked list and return it.
+
+[Solution](solutions/day_35.py)
+
+--- 
+
+### Problem 36
+This problem was asked by LinkedIn.
+
+Given a sorted list of numbers, change it into a balanced binary search tree. You can assume there will be no duplicate numbers in the list. 
+
+[Solution](solutions/day_36.py)
+
+--- 
