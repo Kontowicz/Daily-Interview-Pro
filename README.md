@@ -345,3 +345,12 @@ Given a sorted list of numbers, change it into a balanced binary search tree. Yo
 [Solution](solutions/day_36.py)
 
 --- 
+
+### Problem 37
+This problem was asked by Uber.
+
+You have a landscape, in which puddles can form. You are given an array of non-negative integers representing the elevation at each location. Return the amount of water that would accumulate if it rains. 
+
+[Solution](solutions/day_37.py)
+
+--- 
