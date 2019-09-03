@@ -354,3 +354,12 @@ You have a landscape, in which puddles can form. You are given an array of non-n
 [Solution](solutions/day_37.py)
 
 --- 
+
+### Problem 38
+This problem was asked by AirBNB.
+
+Given two strings A and B of lowercase letters, return true if and only if we can swap two letters in A so that the result equals B.
+
+[Solution](solutions/day_38.py)
+
+--- 
