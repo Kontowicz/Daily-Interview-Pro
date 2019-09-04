@@ -363,3 +363,12 @@ Given two strings A and B of lowercase letters, return true if and only if we ca
 [Solution](solutions/day_38.py)
 
 --- 
+
+### Problem 39
+This problem was asked by Google.
+
+You are given the root of a binary tree. Return the deepest node (the furthest node from the root).
+
+[Solution](solutions/day_39.py)
+
+--- 
