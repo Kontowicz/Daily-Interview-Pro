@@ -373,12 +373,20 @@ You are given the root of a binary tree. Return the deepest node (the furthest n
 
 --- 
 
-
 ### Problem 40
 This problem was asked by Facebook.
 
 You are given an array of integers. Return the smallest positive integer that is not present in the array. The array may contain duplicate entries.
 
 [Solution](solutions/day_40.py)
+
+--- 
+
+### Problem 41
+This problem was asked by Facebook.
+
+You are given the root of a binary search tree. Return true if it is a valid binary search tree, and false otherwise. Recall that a binary search tree has the property that all values in the left subtree are less than or equal to the root, and all values in the right subtree are greater than or equal to the root.
+
+[Solution](solutions/day_41.py)
 
 --- 
