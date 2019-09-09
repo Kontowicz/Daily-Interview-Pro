@@ -390,3 +390,12 @@ You are given the root of a binary search tree. Return true if it is a valid bin
 [Solution](solutions/day_41.py)
 
 --- 
+
+### Problem 42
+This problem was asked by Amazon.
+
+Given a binary tree, return all values given a certain height h.
+
+[Solution](solutions/day_42.py)
+
+---
