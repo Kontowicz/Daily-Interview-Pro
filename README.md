@@ -399,3 +399,12 @@ Given a binary tree, return all values given a certain height h.
 [Solution](solutions/day_42.py)
 
 ---
+
+### Problem 43
+This problem was asked by Amazon.
+
+You are given a string s, and an integer k. Return the length of the longest substring in s that contains at most k distinct characters.
+
+[Solution](solutions/day_43.py)
+
+---
