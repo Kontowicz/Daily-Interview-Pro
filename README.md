@@ -408,3 +408,12 @@ You are given a string s, and an integer k. Return the length of the longest sub
 [Solution](solutions/day_43.py)
 
 ---
+
+### Problem 44
+This problem was asked by Microsoft.
+
+A unival tree is a tree where all the nodes have the same value. Given a binary tree, return the number of unival subtrees in the tree.
+
+[Solution](solutions/day_44.py)
+
+---
