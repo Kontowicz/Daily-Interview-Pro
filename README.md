@@ -417,3 +417,12 @@ A unival tree is a tree where all the nodes have the same value. Given a binary 
 [Solution](solutions/day_44.py)
 
 ---
+
+### Problem 45
+This problem was asked by Microsoft.
+
+You are given the preorder and inorder traversals of a binary tree in the form of arrays. Write a function that reconstructs the tree represented by these traversals.
+
+[Solution](solutions/day_45.py)
+
+---
