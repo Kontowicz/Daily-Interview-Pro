@@ -426,3 +426,17 @@ You are given the preorder and inorder traversals of a binary tree in the form o
 [Solution](solutions/day_45.py)
 
 ---
+
+### Problem 46
+This problem was asked by Apple.
+
+Given an array with n objects colored red, white or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white and blue.
+Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.
+Note: You are not suppose to use the library’s sort function for this problem.
+
+Can you do this in a single pass?
+
+
+[Solution](solutions/day_46.py)
+
+---
