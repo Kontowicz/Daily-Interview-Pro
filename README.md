@@ -436,7 +436,15 @@ Note: You are not suppose to use the library’s sort function for this problem.
 
 Can you do this in a single pass?
 
-
 [Solution](solutions/day_46.py)
+
+---
+
+### Problem 47
+This problem was asked by Apple.
+
+Given a list of words, and an arbitrary alphabetical order, verify that the words are in order of the alphabetical order.
+
+[Solution](solutions/day_47.py)
 
 ---
