@@ -478,3 +478,12 @@ You are given a string of parenthesis. Return the minimum number of parenthesis 
 [Solution](solutions/day_50.py)
 
 ---
+
+### Problem 51
+This problem was asked by AirBNB.
+
+Given a list of words, group the words that are anagrams of each other. (An anagram are words made up of the same letters).
+
+[Solution](solutions/day_51.py)
+
+---
