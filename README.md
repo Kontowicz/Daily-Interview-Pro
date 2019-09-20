@@ -479,11 +479,11 @@ You are given a string of parenthesis. Return the minimum number of parenthesis 
 
 ---
 
-### Problem 51
-This problem was asked by AirBNB.
+### Problem 52
+This problem was asked by Google.
 
-Given a list of words, group the words that are anagrams of each other. (An anagram are words made up of the same letters).
+You are given a stream of numbers. Compute the median for each new element .
 
-[Solution](solutions/day_51.py)
+[Solution](solutions/day_52.py)
 
 ---
