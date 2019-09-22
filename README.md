@@ -485,5 +485,19 @@ This problem was asked by Google.
 You are given a stream of numbers. Compute the median for each new element .
 
 [Solution](solutions/day_52.py)
-
 ---
+
+### Problem 53
+This problem was asked by Google.
+
+You are given an array of tuples (start, end) representing time intervals for lectures. The intervals may be overlapping. Return the number of rooms that are required.
+
+[Solution](solutions/day_53.py)
+---
+
+### Problem 54
+This problem was asked by Facebook.
+
+Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
+[Solution](solutions/day_54.py)
