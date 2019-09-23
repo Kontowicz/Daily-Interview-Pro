@@ -501,3 +501,11 @@ This problem was asked by Facebook.
 Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
 [Solution](solutions/day_54.py)
+---
+
+### Problem 55
+This problem was asked by Facebook.
+
+Given a sorted list of numbers, return a list of strings that represent all of the consecutive numbers.
+
+[Solution](solutions/day_55.py)
