@@ -509,6 +509,7 @@ This problem was asked by Facebook.
 Given a sorted list of numbers, return a list of strings that represent all of the consecutive numbers.
 
 [Solution](solutions/day_55.py)
+---
 
 ### Problem 56
 This problem was asked by Amazon.
@@ -516,3 +517,11 @@ This problem was asked by Amazon.
 You are given an array of integers. Return an array of the same size where the element at each index is the product of all the elements in the original array except for the element at that index.
 
 [Solution](solutions/day_56.py)
+---
+
+### Problem 57
+This problem was asked by Microsoft.
+
+You are given an array of integers. Return the length of the longest increasing subsequence (not necessarily contiguous) in the array.
+
+[Solution](solutions/day_57.py)
