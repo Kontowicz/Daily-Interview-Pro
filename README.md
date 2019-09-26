@@ -525,3 +525,11 @@ This problem was asked by Microsoft.
 You are given an array of integers. Return the length of the longest increasing subsequence (not necessarily contiguous) in the array.
 
 [Solution](solutions/day_57.py)
+---
+
+### Problem 58
+This problem was asked by Microsoft.
+
+Given a time in the format of hour and minute, calculate the angle of the hour and minute hand on a clock.
+
+[Solution](solutions/day_58.py)
