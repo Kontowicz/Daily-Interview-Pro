@@ -533,3 +533,11 @@ This problem was asked by Microsoft.
 Given a time in the format of hour and minute, calculate the angle of the hour and minute hand on a clock.
 
 [Solution](solutions/day_58.py)
+---
+
+### Problem 59
+This problem was asked by Apple.
+
+You are given a binary tree representation of an arithmetic expression. In this tree, each leaf is an integer value,, and a non-leaf node is one of the four operations: '+', '-', '*', or '/'.
+
+[Solution](solutions/day_59.py)
