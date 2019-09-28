@@ -541,3 +541,14 @@ This problem was asked by Apple.
 You are given a binary tree representation of an arithmetic expression. In this tree, each leaf is an integer value,, and a non-leaf node is one of the four operations: '+', '-', '*', or '/'.
 
 [Solution](solutions/day_59.py)
+---
+
+### Problem 60
+This problem was asked by Apple.
+
+You are given the root of a binary tree. You need to implement 2 functions:
+
+1. serialize(root) which serializes the tree into a string representation
+2. deserialize(s) which deserializes the string back to the original tree that it represents
+
+[Solution](solutions/day_60.py)
