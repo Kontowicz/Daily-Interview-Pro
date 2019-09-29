@@ -552,3 +552,15 @@ You are given the root of a binary tree. You need to implement 2 functions:
 2. deserialize(s) which deserializes the string back to the original tree that it represents
 
 [Solution](solutions/day_60.py)
+---
+
+### Problem 61
+This problem was asked by Twitter.
+
+You are the manager of a number of employees who all sit in a row. The CEO would like to give bonuses to all of your employees, but since the company did not perform so well this year the CEO would like to keep the bonuses to a minimum.
+
+The rules of giving bonuses is that:
+- Each employee begins with a bonus factor of 1x.
+- For each employee, if they perform better than the person sitting next to them, the employee is given +1 higher bonus (and up to +2 if they perform better than both people to their sides).
+
+[Solution](solutions/day_61.py)
