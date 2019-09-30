@@ -564,3 +564,11 @@ The rules of giving bonuses is that:
 - For each employee, if they perform better than the person sitting next to them, the employee is given +1 higher bonus (and up to +2 if they perform better than both people to their sides).
 
 [Solution](solutions/day_61.py)
+---
+
+### Problem 62
+This problem was asked by Twitter.
+
+Given a list of integers, return the bounds of the minimum range that must be sorted so that the whole list would be sorted.
+
+[Solution](solutions/day_62.py)
