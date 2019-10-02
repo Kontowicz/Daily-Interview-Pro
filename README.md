@@ -572,3 +572,11 @@ This problem was asked by Twitter.
 Given a list of integers, return the bounds of the minimum range that must be sorted so that the whole list would be sorted.
 
 [Solution](solutions/day_62.py)
+---
+
+### Problem 63
+This problem was asked by Uber.
+
+Design a simple stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+[Solution](solutions/day_63.py)
