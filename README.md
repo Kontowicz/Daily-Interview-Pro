@@ -580,3 +580,11 @@ This problem was asked by Uber.
 Design a simple stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
 [Solution](solutions/day_63.py)
+---
+
+### Problem 64
+This problem was asked by Google.
+
+Given a binary tree, remove the nodes in which there is only 1 child, so that the binary tree is a full binary tree.
+
+[Solution](solutions/day_64.py)
