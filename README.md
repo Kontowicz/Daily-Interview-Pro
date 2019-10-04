@@ -588,3 +588,11 @@ This problem was asked by Google.
 Given a binary tree, remove the nodes in which there is only 1 child, so that the binary tree is a full binary tree.
 
 [Solution](solutions/day_64.py)
+---
+
+### Problem 65
+This problem was asked by Google.
+
+Given a string with a certain rule: k[string] should be expanded to string k times. So for example, 3[abc] should be expanded to abcabcabc. Nested expansions can happen, so 2[a2[b]c] should be expanded to abbcabbc.
+
+[Solution](solutions/day_65.py)
