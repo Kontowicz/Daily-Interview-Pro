@@ -596,3 +596,13 @@ This problem was asked by Google.
 Given a string with a certain rule: k[string] should be expanded to string k times. So for example, 3[abc] should be expanded to abcabcabc. Nested expansions can happen, so 2[a2[b]c] should be expanded to abbcabbc.
 
 [Solution](solutions/day_65.py)
+---
+
+### Problem 66
+This problem was asked by Facebook.
+
+Two words can be 'chained' if the last character of the first word is the same as the first character of the second word.
+
+Given a list of words, determine if there is a way to 'chain' all the words in a circle.
+
+[Solution](solutions/day_66.py)
