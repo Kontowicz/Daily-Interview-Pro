@@ -606,3 +606,11 @@ Two words can be 'chained' if the last character of the first word is the same a
 Given a list of words, determine if there is a way to 'chain' all the words in a circle.
 
 [Solution](solutions/day_66.py)
+---
+
+### Problem 67
+This problem was asked by Facebook.
+
+Starting at index 0, for an element n at index i, you are allowed to jump at most n indexes ahead. Given a list of numbers, find the minimum number of jumps to reach the end of the list.
+
+[Solution](solutions/day_67.py)
