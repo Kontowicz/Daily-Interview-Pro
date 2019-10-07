@@ -614,3 +614,11 @@ This problem was asked by Facebook.
 Starting at index 0, for an element n at index i, you are allowed to jump at most n indexes ahead. Given a list of numbers, find the minimum number of jumps to reach the end of the list.
 
 [Solution](solutions/day_67.py)
+---
+
+### Problem 68
+This problem was asked by Amazon.
+
+The h-index is a metric that attempts to measure the productivity and citation impact of the publication of a scholar. The definition of the h-index is if a scholar has at least h of their papers cited h times. 
+
+[Solution](solutions/day_68.py)
