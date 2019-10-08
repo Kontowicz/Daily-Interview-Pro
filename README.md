@@ -622,3 +622,11 @@ This problem was asked by Amazon.
 The h-index is a metric that attempts to measure the productivity and citation impact of the publication of a scholar. The definition of the h-index is if a scholar has at least h of their papers cited h times. 
 
 [Solution](solutions/day_68.py)
+---
+
+### Problem 69
+This problem was asked by Microsoft.
+
+A k-ary tree is a tree with k-children, and a tree is symmetrical if the data of the left side of the tree is the same as the right side of the tree.
+
+[Solution](solutions/day_69.py)
