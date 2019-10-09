@@ -630,3 +630,11 @@ This problem was asked by Microsoft.
 A k-ary tree is a tree with k-children, and a tree is symmetrical if the data of the left side of the tree is the same as the right side of the tree.
 
 [Solution](solutions/day_69.py)
+---
+
+### Problem 70
+This problem was asked by Microsoft.
+
+Given a list of numbers of size n, where n is greater than 3, find the maximum and minimum of the list using less than 2 * (n - 1) comparisons.
+
+[Solution](solutions/day_70.py)
