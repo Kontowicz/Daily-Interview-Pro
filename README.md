@@ -638,3 +638,12 @@ This problem was asked by Microsoft.
 Given a list of numbers of size n, where n is greater than 3, find the maximum and minimum of the list using less than 2 * (n - 1) comparisons.
 
 [Solution](solutions/day_70.py)
+---
+
+### Problem 71
+This problem was asked by Apple.
+
+The Fibonacci sequence is the integer sequence defined by the recurrence relation: F(n) = F(n-1) + F(n-2), where F(0) = 0 and F(1) = 1. In other words, the nth Fibonacci number is the sum of the prior two Fibonacci numbers. Below are the first few values of the sequence:
+
+
+[Solution](solutions/day_71.py)
