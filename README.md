@@ -647,3 +647,12 @@ The Fibonacci sequence is the integer sequence defined by the recurrence relatio
 
 
 [Solution](solutions/day_71.py)
+---
+
+### Problem 72
+This problem was asked by Apple.
+
+Given an array of integers, arr, where all numbers occur twice except one number which occurs once, find the number. Your solution should ideally be O(n) time and use constant extra space. 
+
+
+[Solution](solutions/day_72.py)
