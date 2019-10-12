@@ -645,7 +645,6 @@ This problem was asked by Apple.
 
 The Fibonacci sequence is the integer sequence defined by the recurrence relation: F(n) = F(n-1) + F(n-2), where F(0) = 0 and F(1) = 1. In other words, the nth Fibonacci number is the sum of the prior two Fibonacci numbers. Below are the first few values of the sequence:
 
-
 [Solution](solutions/day_71.py)
 ---
 
@@ -654,5 +653,12 @@ This problem was asked by Apple.
 
 Given an array of integers, arr, where all numbers occur twice except one number which occurs once, find the number. Your solution should ideally be O(n) time and use constant extra space. 
 
-
 [Solution](solutions/day_72.py)
+---
+
+### Problem 73
+This problem was asked by Twitter.
+
+Given a Roman numeral, find the corresponding decimal value. Inputs will be between 1 and 3999. 
+
+[Solution](solutions/day_73.py)
