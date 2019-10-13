@@ -662,3 +662,11 @@ This problem was asked by Twitter.
 Given a Roman numeral, find the corresponding decimal value. Inputs will be between 1 and 3999. 
 
 [Solution](solutions/day_73.py)
+---
+
+### Problem 74
+This problem was asked by Twitter.
+
+ Given an array of characters with repeats, compress it in place. The length after compression should be less than or equal to the original array.
+
+[Solution](solutions/day_74.py)
