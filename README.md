@@ -670,3 +670,11 @@ This problem was asked by Twitter.
  Given an array of characters with repeats, compress it in place. The length after compression should be less than or equal to the original array.
 
 [Solution](solutions/day_74.py)
+---
+
+### Problem 75
+This problem was asked by Uber.
+
+ Given a number of integers, combine them so it would create the largest number.
+
+[Solution](solutions/day_75.py)
