@@ -678,3 +678,11 @@ This problem was asked by Uber.
  Given a number of integers, combine them so it would create the largest number.
 
 [Solution](solutions/day_75.py)
+---
+
+### Problem 76
+This problem was asked by AirBNB.
+
+ Given a sorted list of positive numbers, find the smallest positive number that cannot be a sum of any subset in the list.
+
+[Solution](solutions/day_76.py)
