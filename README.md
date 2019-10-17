@@ -667,7 +667,7 @@ Given a Roman numeral, find the corresponding decimal value. Inputs will be betw
 ### Problem 74
 This problem was asked by Twitter.
 
- Given an array of characters with repeats, compress it in place. The length after compression should be less than or equal to the original array.
+Given an array of characters with repeats, compress it in place. The length after compression should be less than or equal to the original array.
 
 [Solution](solutions/day_74.py)
 ---
@@ -675,7 +675,7 @@ This problem was asked by Twitter.
 ### Problem 75
 This problem was asked by Uber.
 
- Given a number of integers, combine them so it would create the largest number.
+Given a number of integers, combine them so it would create the largest number.
 
 [Solution](solutions/day_75.py)
 ---
@@ -683,6 +683,14 @@ This problem was asked by Uber.
 ### Problem 76
 This problem was asked by AirBNB.
 
- Given a sorted list of positive numbers, find the smallest positive number that cannot be a sum of any subset in the list.
+Given a sorted list of positive numbers, find the smallest positive number that cannot be a sum of any subset in the list.
 
 [Solution](solutions/day_76.py)
+---
+
+### Problem 77
+This problem was asked by Facebook.
+
+You are given the root of a binary tree. Find the path between 2 nodes that maximizes the sum of all the nodes in the path, and return the sum. The path does not necessarily need to go through the root.
+
+[Solution](solutions/day_77.py)
