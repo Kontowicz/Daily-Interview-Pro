@@ -694,3 +694,11 @@ This problem was asked by Facebook.
 You are given the root of a binary tree. Find the path between 2 nodes that maximizes the sum of all the nodes in the path, and return the sum. The path does not necessarily need to go through the root.
 
 [Solution](solutions/day_77.py)
+---
+
+### Problem 78
+This problem was asked by Facebook.
+
+You are given an array of integers. Return all the permutations of this array.
+
+[Solution](solutions/day_78.py)
