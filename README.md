@@ -710,3 +710,11 @@ This problem was asked by Amazon.
 For example, the input array [100, 4, 200, 1, 3, 2] has the longest consecutive sequence 1, 2, 3, 4, and thus, you should return its length, 4.
 
 [Solution](solutions/day_79.py)
+---
+
+### Problem 80
+This problem was asked by Amazon.
+
+You are given an array of integers, and an integer K. Return the subarray which sums to K. You can assume that a solution will always exist.
+
+[Solution](solutions/day_80.py)
