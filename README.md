@@ -718,3 +718,11 @@ This problem was asked by Amazon.
 You are given an array of integers, and an integer K. Return the subarray which sums to K. You can assume that a solution will always exist.
 
 [Solution](solutions/day_80.py)
+---
+
+### Problem 81
+This problem was asked by Microsoft.
+
+You are given a doubly linked list. Determine if it is a palindrome. 
+
+[Solution](solutions/day_81.py)
