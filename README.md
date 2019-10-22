@@ -726,3 +726,11 @@ This problem was asked by Microsoft.
 You are given a doubly linked list. Determine if it is a palindrome. 
 
 [Solution](solutions/day_81.py)
+---
+
+### Problem 82
+This problem was asked by Microsoft.
+
+Given the root of a binary tree, print its level-order traversal. 
+
+[Solution](solutions/day_82.py)
