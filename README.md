@@ -734,3 +734,12 @@ This problem was asked by Microsoft.
 Given the root of a binary tree, print its level-order traversal. 
 
 [Solution](solutions/day_82.py)
+---
+
+### Problem 83
+This problem was asked by Apple.
+
+You are given two strings, A and B. Return whether A can be shifted some number of times to get B.
+Eg. A = abcde, B = cdeab should return true because A can be shifted 3 times to the right to get B. A = abc and B= acb should return false. 
+
+[Solution](solutions/day_83.py)
