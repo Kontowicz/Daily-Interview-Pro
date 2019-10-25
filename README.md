@@ -743,3 +743,11 @@ You are given two strings, A and B. Return whether A can be shifted some number 
 Eg. A = abcde, B = cdeab should return true because A can be shifted 3 times to the right to get B. A = abc and B= acb should return false. 
 
 [Solution](solutions/day_83.py)
+---
+
+### Problem 84
+This problem was asked by Twitter.
+
+You are given the root of a binary tree. Find the level for the binary tree with the minimum sum, and return that value.
+
+[Solution](solutions/day_84.py)
