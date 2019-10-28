@@ -767,3 +767,11 @@ This problem was asked by LinkedIn.
 Given a non-empty array where each element represents a digit of a non-negative integer, add one to the integer. The most significant digit is at the front of the array and each element in the array contains only one digit. Furthermore, the integer does not have leading zeros, except in the case of the number '0'. 
 
 [Solution](solutions/day_86.py)
+---
+
+### Problem 87
+This problem was asked by Uber.
+
+Given a linked list, determine if the linked list has a cycle in it. For notation purposes, we use an integer pos which represents the zero-indexed position where the tail connects to.
+
+[Solution](solutions/day_87.py)
