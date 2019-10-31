@@ -783,3 +783,11 @@ This problem was asked by AirBNB.
 Given a non-empty list of words, return the k most frequent words. The output should be sorted from highest to lowest frequency, and if two words have the same frequency, the word with lower alphabetical order comes first. Input will contain only lower-case letters.
 
 [Solution](solutions/day_88.py)
+---
+
+### Problem 89
+This problem was asked by Facebook.
+
+Given a file path with folder names, '..' (Parent directory), and '.' (Current directory), return the shortest possible file path (Eliminate all the '..' and '.').
+
+[Solution](solutions/day_89.py)
