@@ -791,3 +791,12 @@ This problem was asked by Facebook.
 Given a file path with folder names, '..' (Parent directory), and '.' (Current directory), return the shortest possible file path (Eliminate all the '..' and '.').
 
 [Solution](solutions/day_89.py)
+
+---
+
+### Problem 90
+This problem was asked by Facebook.
+
+Given a directed graph, reverse the directed graph so all directed edges are reversed. 
+
+[Solution](solutions/day_90.py)
