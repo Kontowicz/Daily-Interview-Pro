@@ -791,7 +791,6 @@ This problem was asked by Facebook.
 Given a file path with folder names, '..' (Parent directory), and '.' (Current directory), return the shortest possible file path (Eliminate all the '..' and '.').
 
 [Solution](solutions/day_89.py)
-
 ---
 
 ### Problem 90
@@ -800,3 +799,14 @@ This problem was asked by Facebook.
 Given a directed graph, reverse the directed graph so all directed edges are reversed. 
 
 [Solution](solutions/day_90.py)
+---
+
+### Problem 91
+This problem was asked by Amazon.
+ 
+Version numbers are strings that are used to identify unique states of software products. A version number is in the format a.b.c.d. and so on where a, b, etc. are numeric strings separated by dots. These generally represent a hierarchy from major to minor changes. Given two version numbers version1 and version2, conclude which is the latest version number. Your code should do the following:
+If version1 > version2 return 1.
+If version1 < version2 return -1.
+Otherwise return 0. 
+
+[Solution](solutions/day_91.py)
