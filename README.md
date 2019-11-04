@@ -810,3 +810,11 @@ If version1 < version2 return -1.
 Otherwise return 0. 
 
 [Solution](solutions/day_91.py)
+---
+
+### Problem 92
+This problem was asked by Amazon.
+ 
+MS Excel column titles have the following pattern: A, B, C, ..., Z, AA, AB, ..., AZ, BA, BB, ..., ZZ, AAA, AAB, ... etc. In other words, column 1 is named "A", column 2 is "B", column 26 is "Z", column 27 is "AA" and so forth. Given a positive integer, find its corresponding column name. 
+
+[Solution](solutions/day_91.py)
