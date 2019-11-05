@@ -817,4 +817,12 @@ This problem was asked by Amazon.
  
 MS Excel column titles have the following pattern: A, B, C, ..., Z, AA, AB, ..., AZ, BA, BB, ..., ZZ, AAA, AAB, ... etc. In other words, column 1 is named "A", column 2 is "B", column 26 is "Z", column 27 is "AA" and so forth. Given a positive integer, find its corresponding column name. 
 
-[Solution](solutions/day_91.py)
+[Solution](solutions/day_92.py)
+---
+
+### Problem 93
+This problem was asked by Amazon.
+ 
+Return the longest run of 1s for a given integer n's binary representation.
+
+[Solution](solutions/day_93.py)
