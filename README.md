@@ -831,6 +831,14 @@ Return the longest run of 1s for a given integer n's binary representation.
 ### Problem 94
 This problem was asked by Apple.
  
-In many spreadsheet applications, the columns are marked with letters. From the 1st to the 26th column the letters are A to Z. Then starting from the 27th column it uses AA, AB, ..., ZZ, AAA, etc.
+In many spreadsheet applications, the columns are marked with letters. From the 1st to the 26th column the letters are A to Z. Then starting from the 27th column it uses AA, AB, ..., ZZ, AAA, etc.- Mhh
 
 [Solution](solutions/day_92.py)
+---
+
+### Problem 94
+This problem was asked by Apple.
+ 
+You are given a tree, and your job is to print it level-by-level with linebreaks.
+
+[Solution](solutions/day_95.py)
