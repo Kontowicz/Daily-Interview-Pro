@@ -836,9 +836,17 @@ In many spreadsheet applications, the columns are marked with letters. From the 
 [Solution](solutions/day_92.py)
 ---
 
-### Problem 94
+### Problem 95
 This problem was asked by Apple.
  
 You are given a tree, and your job is to print it level-by-level with linebreaks.
 
 [Solution](solutions/day_95.py)
+---
+
+### Problem 96
+This problem was asked by Twitter.
+ 
+Given an integer, check if that integer is a palindrome. For this problem do not convert the integer to a string to check if it is a palindrome.
+
+[Solution](solutions/day_96.py)
