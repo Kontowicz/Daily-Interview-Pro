@@ -850,3 +850,11 @@ This problem was asked by Twitter.
 Given an integer, check if that integer is a palindrome. For this problem do not convert the integer to a string to check if it is a palindrome.
 
 [Solution](solutions/day_96.py)
+---
+
+### Problem 97
+This problem was asked by Twitter.
+ 
+Given a string with only ( and ), find the minimum number of characters to add or subtract to fix the string such that the brackets are balanced.
+
+[Solution](solutions/day_97.py)
