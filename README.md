@@ -858,3 +858,11 @@ This problem was asked by Twitter.
 Given a string with only ( and ), find the minimum number of characters to add or subtract to fix the string such that the brackets are balanced.
 
 [Solution](solutions/day_97.py)
+---
+
+### Problem 98
+This problem was asked by LinkedIn.
+ 
+Given a binary tree, find the most frequent subtree sum.
+
+[Solution](solutions/day_98.py)
