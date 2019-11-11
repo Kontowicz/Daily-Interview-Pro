@@ -866,3 +866,11 @@ This problem was asked by LinkedIn.
 Given a binary tree, find the most frequent subtree sum.
 
 [Solution](solutions/day_98.py)
+---
+
+### Problem 99
+This problem was asked by Uber.
+ 
+You are given a list of n numbers, where every number is at most k indexes away from its properly sorted index. Write a sorting algorithm (that will be given the number k) for this list that can solve this in O(n log k)
+
+[Solution](solutions/day_99.py)
