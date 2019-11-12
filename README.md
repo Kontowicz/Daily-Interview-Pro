@@ -874,3 +874,11 @@ This problem was asked by Uber.
 You are given a list of n numbers, where every number is at most k indexes away from its properly sorted index. Write a sorting algorithm (that will be given the number k) for this list that can solve this in O(n log k)
 
 [Solution](solutions/day_99.py)
+---
+
+### Problem 100
+This problem was asked by AirBNB.
+ 
+We have a list of tasks to perform, with a cooldown period. We can do multiple of these at the same time, but we cannot run the same task simultaneously.
+
+[Solution](solutions/day_100.py)
