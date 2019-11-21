@@ -1,4 +1,3 @@
-from collections import deque
 
 class Node(object):
     def __init__(self, val):
@@ -19,7 +18,6 @@ class Node(object):
                     tmp.append(item.left)
                 if item.right != None:
                     tmp.append(item.right)
-
 
             if tmp == []:
                 break
