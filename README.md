@@ -920,3 +920,11 @@ This problem was asked by Apple.
 Given a binary tree, return the list of node values in zigzag order traversal. Here's an example
 
 [Solution](solutions/day_104.py)
+---
+
+### Problem 105
+This problem was asked by Twitter.
+
+Given a list of numbers, find the smallest window to sort such that the whole list will be sorted. If the list is already sorted return (0, 0). You can assume there will be no duplicate numbers
+
+[Solution](solutions/day_105.py)
