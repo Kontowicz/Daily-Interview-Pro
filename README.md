@@ -928,3 +928,11 @@ This problem was asked by Twitter.
 Given a list of numbers, find the smallest window to sort such that the whole list will be sorted. If the list is already sorted return (0, 0). You can assume there will be no duplicate numbers
 
 [Solution](solutions/day_105.py)
+---
+
+### Problem 106
+This problem was asked by Uber.
+
+Given a postorder traversal for a binary search tree, reconstruct the tree. A postorder traversal is a traversal order where the left child always comes before the right child, and the right child always comes before the parent for all nodes.
+
+[Solution](solutions/day_106.py)
