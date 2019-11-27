@@ -928,3 +928,11 @@ This problem was asked by Twitter.
 Given a list of numbers, find the smallest window to sort such that the whole list will be sorted. If the list is already sorted return (0, 0). You can assume there will be no duplicate numbers
 
 [Solution](solutions/day_105.py)
+---
+
+### Problem 106
+This problem was asked by Google.
+
+Given two strings, find if there is a one-to-one mapping of characters between the two strings.
+
+[Solution](solutions/day_106.py)
