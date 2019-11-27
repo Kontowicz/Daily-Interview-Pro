@@ -936,3 +936,11 @@ This problem was asked by Uber.
 Given a postorder traversal for a binary search tree, reconstruct the tree. A postorder traversal is a traversal order where the left child always comes before the right child, and the right child always comes before the parent for all nodes.
 
 [Solution](solutions/day_106.py)
+---
+
+### Problem 107
+This problem was asked by Google.
+
+Given two strings, find if there is a one-to-one mapping of characters between the two strings.
+
+[Solution](solutions/day_107.py)
