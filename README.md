@@ -931,8 +931,8 @@ Given a list of numbers, find the smallest window to sort such that the whole li
 ---
 
 ### Problem 106
-This problem was asked by Google.
+This problem was asked by Uber.
 
-Given two strings, find if there is a one-to-one mapping of characters between the two strings.
+Given a postorder traversal for a binary search tree, reconstruct the tree. A postorder traversal is a traversal order where the left child always comes before the right child, and the right child always comes before the parent for all nodes.
 
 [Solution](solutions/day_106.py)
