@@ -944,3 +944,11 @@ This problem was asked by Google.
 Given two strings, find if there is a one-to-one mapping of characters between the two strings.
 
 [Solution](solutions/day_107.py)
+---
+
+### Problem 108
+This problem was asked by Google.
+
+Given a nested dictionary, flatten the dictionary, where nested dictionary keys can be represented through dot notation.
+
+[Solution](solutions/day_108.py)
