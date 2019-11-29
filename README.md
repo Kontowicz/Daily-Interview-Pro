@@ -952,3 +952,11 @@ This problem was asked by Google.
 Given a nested dictionary, flatten the dictionary, where nested dictionary keys can be represented through dot notation.
 
 [Solution](solutions/day_108.py)
+---
+
+### Problem 109
+This problem was asked by Facebook.
+
+Given an expression (as a list) in reverse polish notation, evaluate the expression. Reverse polish notation is where the numbers come before the operand. Note that there can be the 4 operands '+', '-', '*', '/'. You can also assume the expression will be well formed.
+
+[Solution](solutions/day_108.py)
