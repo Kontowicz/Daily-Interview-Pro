@@ -965,7 +965,14 @@ Given an expression (as a list) in reverse polish notation, evaluate the express
 ### Problem 110
 This problem was asked by Facebook.
 
-
 Given a list of words, for each word find the shortest unique prefix. You can assume a word will not be a substring of another word (ie play and playing won't be in the same words list)
 
 [Solution](solutions/day_110.py)
+---
+
+### Problem 111
+This problem was asked by Amazon.
+
+Given a string, return the first recurring letter that appears. If there are no recurring letters, return None.
+
+[Solution](solutions/day_111.py)
