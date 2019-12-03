@@ -976,3 +976,13 @@ This problem was asked by Amazon.
 Given a string, return the first recurring letter that appears. If there are no recurring letters, return None.
 
 [Solution](solutions/day_111.py)
+---
+
+### Problem 112
+This problem was asked by Microsoft.
+
+A maze is a matrix where each cell can either be a 0 or 1. A 0 represents that the cell is empty, and a 1 represents a wall that cannot be walked through. You can also only travel either right or down.
+
+Given a nxm matrix, find the number of ways someone can go from the top left corner to the bottom right corner. You can assume the two corners will always be 0.
+
+[Solution](solutions/day_112.py)
