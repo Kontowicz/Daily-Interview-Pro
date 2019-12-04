@@ -986,3 +986,11 @@ A maze is a matrix where each cell can either be a 0 or 1. A 0 represents that t
 Given a nxm matrix, find the number of ways someone can go from the top left corner to the bottom right corner. You can assume the two corners will always be 0.
 
 [Solution](solutions/day_112.py)
+---
+
+### Problem 113
+This problem was asked by Microsoft.
+
+Given a string, determine if there is a way to arrange the string such that the string is a palindrome. If such arrangement exists, return a palindrome (There could be many arrangements). Otherwise return None.
+
+[Solution](solutions/day_113.py)
