@@ -994,3 +994,12 @@ This problem was asked by Microsoft.
 Given a string, determine if there is a way to arrange the string such that the string is a palindrome. If such arrangement exists, return a palindrome (There could be many arrangements). Otherwise return None.
 
 [Solution](solutions/day_113.py)
+---
+
+### Problem 114
+This problem was asked by Apple.
+
+
+Given a list of points, an interger k, and a point p, find the k closest points to p.
+
+[Solution](solutions/day_114.py)
