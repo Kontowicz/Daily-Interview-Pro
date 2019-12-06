@@ -999,7 +999,14 @@ Given a string, determine if there is a way to arrange the string such that the 
 ### Problem 114
 This problem was asked by Apple.
 
-
 Given a list of points, an interger k, and a point p, find the k closest points to p.
 
 [Solution](solutions/day_114.py)
+---
+
+### Problem 115
+This problem was asked by Apple.
+
+Create a class that initializes with a list of numbers and has one method called sum. sum should take in two parameters, start_idx and end_idx and return the sum of the list from start_idx (inclusive) to end_idx` (exclusive).
+
+[Solution](solutions/day_115.py)
