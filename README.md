@@ -1010,3 +1010,11 @@ This problem was asked by Apple.
 Create a class that initializes with a list of numbers and has one method called sum. sum should take in two parameters, start_idx and end_idx and return the sum of the list from start_idx (inclusive) to end_idx` (exclusive).
 
 [Solution](solutions/day_115.py)
+---
+
+### Problem 116
+This problem was asked by Twitter.
+
+Given a linked list, swap the position of the 1st and 2nd node, then swap the position of the 3rd and 4th node etc.
+
+[Solution](solutions/day_116.py)
