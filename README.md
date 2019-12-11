@@ -1026,3 +1026,11 @@ This problem was asked by Uber.
 Given a list of possible coins in cents, and an amount (in cents) n, return the minimum number of coins needed to create the amount n. If it is not possible to create the amount using the given coin denomination, return None.
 
 [Solution](solutions/day_117.py)
+---
+
+### Problem 118
+This problem was asked by AirBNB.
+
+Given a phone number, return all valid words that can be created using that phone number.
+
+[Solution](solutions/day_118.py)
