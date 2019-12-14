@@ -1042,3 +1042,11 @@ This problem was asked by Google.
 Given a binary tree, find and return the largest path from root to leaf.
 
 [Solution](solutions/day_119.py)
+---
+
+### Problem 120
+This problem was asked by Facebook.
+
+Given an array and an integer k, rotate the array by k spaces. Do this without generating a new array and without using extra space.
+
+[Solution](solutions/day_120.py)
