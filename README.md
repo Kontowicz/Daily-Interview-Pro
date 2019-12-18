@@ -1058,3 +1058,11 @@ This problem was asked by Amazon.
 Given a 2d n x m matrix where each cell has a certain amount of change on the floor, your goal is to start from the top left corner mat[0][0] and end in the bottom right corner mat[n - 1][m - 1] with the most amount of change. You can only move either left or down.
 
 [Solution](solutions/day_121.py)
+---
+
+### Problem 122
+This problem was asked by Microsoft.
+
+Given a list of sorted numbers (can be both negative or positive), return the list of numbers squared in sorted order.
+
+[Solution](solutions/day_122.py)
