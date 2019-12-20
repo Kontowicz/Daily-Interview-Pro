@@ -1066,3 +1066,11 @@ This problem was asked by Microsoft.
 Given a list of sorted numbers (can be both negative or positive), return the list of numbers squared in sorted order.
 
 [Solution](solutions/day_122.py)
+---
+
+### Problem 123
+This problem was asked by Apple.
+
+Given a list of words in a string, reverse the words in-place (ie don't create a new string and reverse the words). Since python strings are not mutable, you can assume the input will be a mutable sequence (like list).
+
+[Solution](solutions/day_123.py)
