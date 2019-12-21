@@ -1074,3 +1074,11 @@ This problem was asked by Apple.
 Given a list of words in a string, reverse the words in-place (ie don't create a new string and reverse the words). Since python strings are not mutable, you can assume the input will be a mutable sequence (like list).
 
 [Solution](solutions/day_123.py)
+---
+
+### Problem 124
+This problem was asked by Microsoft.
+
+Given a binary tree, find the level in the tree where the sum of all nodes on that level is the greatest.
+
+[Solution](solutions/day_124.py)
