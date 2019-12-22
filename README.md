@@ -1082,3 +1082,11 @@ This problem was asked by Microsoft.
 Given a binary tree, find the level in the tree where the sum of all nodes on that level is the greatest.
 
 [Solution](solutions/day_124.py)
+---
+
+### Problem 125
+This problem was asked by Twitter.
+
+Given 2 strings s and t, find and return all indexes in string s where t is an anagram.
+
+[Solution](solutions/day_125.py)
