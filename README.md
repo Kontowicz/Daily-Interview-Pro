@@ -1090,3 +1090,13 @@ This problem was asked by Twitter.
 Given 2 strings s and t, find and return all indexes in string s where t is an anagram.
 
 [Solution](solutions/day_125.py)
+---
+
+### Problem 126
+This problem was asked by LinkedIn.
+
+Given a string, convert it to an integer without using the builtin str function. You are allowed to use ord to convert a character to ASCII code.
+
+Consider all possible cases of an integer. In the case where the string is not a valid integer, return None.
+
+[Solution](solutions/day_126.py)
