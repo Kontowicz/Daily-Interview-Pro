@@ -1100,3 +1100,11 @@ Given a string, convert it to an integer without using the builtin str function.
 Consider all possible cases of an integer. In the case where the string is not a valid integer, return None.
 
 [Solution](solutions/day_126.py)
+---
+
+### Problem 127
+This problem was asked by Apple.
+
+Given 2 binary trees t and s, find if s has an equal subtree in t, where the structure and the values are the same. Return True if it exists, otherwise return False.
+
+[Solution](solutions/day_127.py)
