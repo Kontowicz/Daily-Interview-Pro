@@ -1108,3 +1108,11 @@ This problem was asked by Apple.
 Given 2 binary trees t and s, find if s has an equal subtree in t, where the structure and the values are the same. Return True if it exists, otherwise return False.
 
 [Solution](solutions/day_127.py)
+---
+
+### Problem 128
+This problem was asked by Uber.
+
+Given a square 2D matrix (n x n), rotate the matrix by 90 degrees clockwise.
+
+[Solution](solutions/day_128.py)
