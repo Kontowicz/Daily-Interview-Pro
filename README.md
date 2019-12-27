@@ -1124,3 +1124,11 @@ This problem was asked by AirBNB.
 The power function calculates x raised to the nth power. If implemented in O(n) it would simply be a for loop over n and multiply x n times. Instead implement this power function in O(log n) time. You can assume that n will be a non-negative integer.
 
 [Solution](solutions/day_129.py)
+---
+
+### Problem 130
+This problem was asked by Google.
+
+Given a sorted list of numbers, and two integers low and high representing the lower and upper bound of a range, return a list of (inclusive) ranges where the numbers are missing. A range should be represented by a tuple in the format of (lower, upper).
+
+[Solution](solutions/day_130.py)
