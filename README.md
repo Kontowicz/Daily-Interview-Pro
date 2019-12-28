@@ -1132,3 +1132,11 @@ This problem was asked by Google.
 Given a sorted list of numbers, and two integers low and high representing the lower and upper bound of a range, return a list of (inclusive) ranges where the numbers are missing. A range should be represented by a tuple in the format of (lower, upper).
 
 [Solution](solutions/day_130.py)
+---
+
+### Problem 131
+This problem was asked by Google.
+
+Given a positive integer, find the square root of the integer without using any built in square root or power functions (math.sqrt or the ** operator). Give accuracy up to 3 decimal points.
+
+[Solution](solutions/day_131.py)
