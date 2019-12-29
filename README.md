@@ -1140,3 +1140,11 @@ This problem was asked by Google.
 Given a positive integer, find the square root of the integer without using any built in square root or power functions (math.sqrt or the ** operator). Give accuracy up to 3 decimal points.
 
 [Solution](solutions/day_131.py)
+---
+
+### Problem 132
+This problem was asked by Facebook.
+
+A Sudoku board is a 9x9 grid, where each row, column and each 3x3 subbox contains the number from 1-9. Here's an example of a Sudoku board.
+
+[Solution](solutions/day_132.py)
