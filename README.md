@@ -1148,3 +1148,11 @@ This problem was asked by Facebook.
 A Sudoku board is a 9x9 grid, where each row, column and each 3x3 subbox contains the number from 1-9. Here's an example of a Sudoku board.
 
 [Solution](solutions/day_132.py)
+---
+
+### Problem 133
+This problem was asked by Facebook.
+
+Given a number n, find the least number of squares needed to sum up to the number.
+
+[Solution](solutions/day_133.py)
