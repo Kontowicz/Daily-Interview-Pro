@@ -1156,3 +1156,11 @@ This problem was asked by Facebook.
 Given a number n, find the least number of squares needed to sum up to the number.
 
 [Solution](solutions/day_133.py)
+---
+
+### Problem 134
+This problem was asked by Twitter.
+
+Given a 32-bit integer, swap the 1st and 2nd bit, 3rd and 4th bit, up til the 31st and 32nd bit.
+
+[Solution](solutions/day_134.py)
