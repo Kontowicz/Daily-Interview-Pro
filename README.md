@@ -1172,3 +1172,11 @@ This problem was asked by Amazon.
 Given a sorted linked list of integers, remove all the duplicate elements in the linked list so that all elements in the linked list are unique.
 
 [Solution](solutions/day_135.py)
+---
+
+### Problem 136
+This problem was asked by Apple.
+
+Given a list of undirected edges which represents a graph, find out the number of connected components.
+
+[Solution](solutions/day_136.py)
