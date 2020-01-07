@@ -1188,3 +1188,11 @@ This problem was asked by Apple.
 Given a non-negative integer n, convert n to base 2 in string form. Do not use any built in base 2 conversion functions like bin.
 
 [Solution](solutions/day_137.py)
+---
+
+### Problem 138
+This problem was asked by LinkedIn.
+
+Given a list of points as a tuple (x, y) and an integer k, find the k closest points to the origin (0, 0).
+
+[Solution](solutions/day_138.py)
