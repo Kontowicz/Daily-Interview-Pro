@@ -1196,3 +1196,11 @@ This problem was asked by LinkedIn.
 Given a list of points as a tuple (x, y) and an integer k, find the k closest points to the origin (0, 0).
 
 [Solution](solutions/day_138.py)
+---
+
+### Problem 139
+This problem was asked by AirBNB.
+
+Given a list of sorted numbers, and two integers k and x, find k closest numbers to the pivot x.
+
+[Solution](solutions/day_139.py)
