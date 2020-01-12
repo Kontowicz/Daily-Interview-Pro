@@ -1212,3 +1212,11 @@ This problem was asked by Google.
 Given a list of numbers, for each element find the next element that is larger than the current element. Return the answer as a list of indices. If there are no elements larger than the current element, then use -1 instead.
 
 [Solution](solutions/day_140.py)
+---
+
+### Problem 141
+This problem was asked by Facebook.
+
+Given a list of meetings that will happen during a day, find the minimum number of meeting rooms that can fit all meetings.
+
+[Solution](solutions/day_141.py)
