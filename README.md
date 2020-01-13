@@ -1220,3 +1220,11 @@ This problem was asked by Facebook.
 Given a list of meetings that will happen during a day, find the minimum number of meeting rooms that can fit all meetings.
 
 [Solution](solutions/day_141.py)
+---
+
+### Problem 142
+This problem was asked by Google.
+
+Given a string, determine if you can remove any character to create a palindrome.
+
+[Solution](solutions/day_142.py)
