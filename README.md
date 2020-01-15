@@ -1228,3 +1228,11 @@ This problem was asked by Google.
 Given a string, determine if you can remove any character to create a palindrome.
 
 [Solution](solutions/day_142.py)
+---
+
+### Problem 143
+This problem was asked by Amazon.
+
+Given a positive integer n, find all primes less than n.
+
+[Solution](solutions/day_143.py)
