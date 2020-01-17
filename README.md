@@ -1236,3 +1236,11 @@ This problem was asked by Amazon.
 Given a positive integer n, find all primes less than n.
 
 [Solution](solutions/day_143.py)
+---
+
+### Problem 144
+This problem was asked by Amazon.
+
+Given a non-negative integer n, convert the integer to hexadecimal and return the result as a string. Hexadecimal is a base 16 representation of a number, where the digits are 0123456789ABCDEF. Do not use any builtin base conversion functions like hex.
+
+[Solution](solutions/day_144.py)
