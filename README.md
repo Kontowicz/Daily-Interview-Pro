@@ -1252,3 +1252,11 @@ This problem was asked by Apple.
 Given a list of strings, find the list of characters that appear in all strings.
 
 [Solution](solutions/day_145.py)
+---
+
+### Problem 146
+This problem was asked by Twitter.
+
+Given 3 sorted lists, find the intersection of those 3 lists.
+
+[Solution](solutions/day_146.py)
