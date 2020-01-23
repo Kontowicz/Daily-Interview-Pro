@@ -1260,3 +1260,11 @@ This problem was asked by Twitter.
 Given 3 sorted lists, find the intersection of those 3 lists.
 
 [Solution](solutions/day_146.py)
+---
+
+### Problem 147
+This problem was asked by AirBNB.
+
+Pascal's Triangle is a triangle where all numbers are the sum of the two numbers above it. Here's an example of the Pascal's Triangle of size 5.
+
+[Solution](solutions/day_147.py)
