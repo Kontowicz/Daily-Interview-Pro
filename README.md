@@ -1268,3 +1268,11 @@ This problem was asked by AirBNB.
 Pascal's Triangle is a triangle where all numbers are the sum of the two numbers above it. Here's an example of the Pascal's Triangle of size 5.
 
 [Solution](solutions/day_147.py)
+---
+
+### Problem 148
+This problem was asked by Twitter.
+
+Given a matrix, transpose it. Transposing a matrix means the rows are now the column and vice-versa.
+
+[Solution](solutions/day_148.py)
