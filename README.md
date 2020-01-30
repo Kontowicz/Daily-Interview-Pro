@@ -1292,3 +1292,11 @@ This problem was asked by Amazon.
 Given an integer, reverse the digits. Do not convert the integer into a string and reverse it.
 
 [Solution](solutions/day_150.py)
+---
+
+### Problem 151
+This problem was asked by Microsoft.
+
+Given a list of strings, find the longest common prefix between all strings.
+
+[Solution](solutions/day_151.py)
