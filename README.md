@@ -1300,3 +1300,11 @@ This problem was asked by Microsoft.
 Given a list of strings, find the longest common prefix between all strings.
 
 [Solution](solutions/day_151.py)
+---
+
+### Problem 152
+This problem was asked by Facebook.
+
+Given two binary numbers represented as strings, return the sum of the two binary numbers as a new binary represented as a string. Do this without converting the whole binary string into an integer.
+
+[Solution](solutions/day_152.py)
