@@ -1308,3 +1308,11 @@ This problem was asked by Facebook.
 Given two binary numbers represented as strings, return the sum of the two binary numbers as a new binary represented as a string. Do this without converting the whole binary string into an integer.
 
 [Solution](solutions/day_152.py)
+---
+
+### Problem 153
+This problem was asked by Apple.
+
+Given a sorted list of size n, with m unique elements (thus m < n), modify the list such that the first m unique elements in the list will be sorted, ignoring the rest of the list. Your solution should have a space complexity of O(1). Instead of returning the list (since you are just modifying the original list), you should return what m is
+
+[Solution](solutions/day_153.py)
