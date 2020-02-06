@@ -1316,3 +1316,11 @@ This problem was asked by Apple.
 Given a sorted list of size n, with m unique elements (thus m < n), modify the list such that the first m unique elements in the list will be sorted, ignoring the rest of the list. Your solution should have a space complexity of O(1). Instead of returning the list (since you are just modifying the original list), you should return what m is
 
 [Solution](solutions/day_153.py)
+---
+
+### Problem 154
+This problem was asked by Twitter.
+
+Given a sorted list with duplicates, and a target number n, find the range in which the number exists (represented as a tuple (low, high), both inclusive. If the number does not exist in the list, return (-1, -1)).
+
+[Solution](solutions/day_154.py)
