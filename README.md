@@ -1332,3 +1332,11 @@ This problem was asked by Uber.
 Given a binary tree, and a target number, find if there is a path from the root to any leaf that sums up to the target.
 
 [Solution](solutions/day_155.py)
+---
+
+### Problem 156
+This problem was asked by AirBNB.
+
+A majority element is an element that appears more than half the time. Given a list with a majority element, find the majority element.
+
+[Solution](solutions/day_156.py)
