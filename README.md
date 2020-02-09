@@ -1340,3 +1340,11 @@ This problem was asked by AirBNB.
 A majority element is an element that appears more than half the time. Given a list with a majority element, find the majority element.
 
 [Solution](solutions/day_156.py)
+---
+
+### Problem 157
+This problem was asked by LinkedIn.
+
+Given a binary tree, find the minimum depth of the binary tree. The minimum depth is the shortest distance from the root to a leaf.
+
+[Solution](solutions/day_157.py)
