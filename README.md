@@ -1348,3 +1348,11 @@ This problem was asked by LinkedIn.
 Given a binary tree, find the minimum depth of the binary tree. The minimum depth is the shortest distance from the root to a leaf.
 
 [Solution](solutions/day_157.py)
+---
+
+### Problem 158
+This problem was asked by Google.
+
+Given an integer, find the number of 1 bits it has.
+
+[Solution](solutions/day_158.py)
