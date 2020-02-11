@@ -1356,3 +1356,12 @@ This problem was asked by Google.
 Given an integer, find the number of 1 bits it has.
 
 [Solution](solutions/day_158.py)
+
+---
+
+### Problem 159
+This problem was asked by Microsoft.
+
+Given a list of numbers, and a target number n, find all unique combinations of a, b, c, d, such that a + b + c + d = n.
+
+[Solution](solutions/day_159.py)
