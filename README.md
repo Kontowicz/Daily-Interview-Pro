@@ -1365,3 +1365,12 @@ This problem was asked by Microsoft.
 Given a list of numbers, and a target number n, find all unique combinations of a, b, c, d, such that a + b + c + d = n.
 
 [Solution](solutions/day_159.py)
+
+---
+
+### Problem 160
+This problem was asked by Twitter.
+
+Given a list of numbers and a target number, find all possible unique subsets of the list of numbers that sum up to the target number. The numbers will all be positive numbers.
+
+[Solution](solutions/day_160.py)
