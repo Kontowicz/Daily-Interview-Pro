@@ -1374,3 +1374,12 @@ This problem was asked by Twitter.
 Given a list of numbers and a target number, find all possible unique subsets of the list of numbers that sum up to the target number. The numbers will all be positive numbers.
 
 [Solution](solutions/day_160.py)
+
+---
+
+### Problem 161
+This problem was asked by Google.
+
+Given a list of positive numbers, find the largest possible set such that no elements are adjacent numbers of each other.
+
+[Solution](solutions/day_161.py)
