@@ -1383,3 +1383,12 @@ This problem was asked by Google.
 Given a list of positive numbers, find the largest possible set such that no elements are adjacent numbers of each other.
 
 [Solution](solutions/day_161.py)
+
+---
+
+### Problem 162
+This problem was asked by Facebook.
+
+Given a matrix that is organized such that the numbers will always be sorted left to right, and the first number of each row will always be greater than the last element of the last row (mat[i][0] > mat[i - 1][-1]), search for a specific value in the matrix and return whether it exists.
+
+[Solution](solutions/day_162.py)
