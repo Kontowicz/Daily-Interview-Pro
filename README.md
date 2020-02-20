@@ -1392,3 +1392,12 @@ This problem was asked by Facebook.
 Given a matrix that is organized such that the numbers will always be sorted left to right, and the first number of each row will always be greater than the last element of the last row (mat[i][0] > mat[i - 1][-1]), search for a specific value in the matrix and return whether it exists.
 
 [Solution](solutions/day_162.py)
+
+---
+
+### Problem 163
+This problem was asked by Amazon.
+
+A number can be constructed by a path from the root to a leaf. Given a binary tree, sum all the numbers that can be constructed from the root to all leaves.
+
+[Solution](solutions/day_163.py)
