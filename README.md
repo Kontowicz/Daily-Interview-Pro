@@ -1401,3 +1401,12 @@ This problem was asked by Amazon.
 A number can be constructed by a path from the root to a leaf. Given a binary tree, sum all the numbers that can be constructed from the root to all leaves.
 
 [Solution](solutions/day_163.py)
+
+---
+
+### Problem 164
+This problem was asked by Google.
+
+Given a list of positive numbers, find the largest possible set such that no elements are adjacent numbers of each other.
+
+[Solution](solutions/day_164.py)
