@@ -1410,3 +1410,14 @@ This problem was asked by Google.
 Given a list of positive numbers, find the largest possible set such that no elements are adjacent numbers of each other.
 
 [Solution](solutions/day_164.py)
+
+---
+
+### Problem 165
+This problem was asked by Apple.
+
+LRU cache is a cache data structure that has limited space, and once there are more items in the cache than available space, it will preempt the least recently used item. What counts as recently used is any item a key has 'get' or 'put' called on it.
+
+Implement an LRU cache class with the 2 functions 'put' and 'get'. 'put' should place a value mapped to a certain key, and preempt items if needed. 'get' should return the value for a given key if it exists in the cache, and return None if it doesn't exist.
+
+[Solution](solutions/day_165.py)
