@@ -1422,7 +1422,6 @@ Implement an LRU cache class with the 2 functions 'put' and 'get'. 'put' should 
 
 [Solution](solutions/day_165.py)
 
-
 ---
 
 ### Problem 166
@@ -1431,3 +1430,12 @@ This problem was asked by Facebook.
 Reshaping a matrix means to take the same elements in a matrix but change the row and column length. This means that the new matrix needs to have the same elements filled in the same row order as the old matrix. Given a matrix, a new row size x and a new column size y, reshape the matrix. If it is not possible to reshape, return None.
 
 [Solution](solutions/day_166.py)
+
+---
+
+### Problem 167
+This problem was asked by Facebook.
+
+Given a list of unique numbers, generate all possible subsets without duplicates. This includes the empty set as well.
+
+[Solution](solutions/day_167.py)
