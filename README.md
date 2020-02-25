@@ -1439,3 +1439,12 @@ This problem was asked by Facebook.
 Given a list of unique numbers, generate all possible subsets without duplicates. This includes the empty set as well.
 
 [Solution](solutions/day_167.py)
+
+---
+
+### Problem 168
+This problem was asked by Uber.
+
+Given a string s and a character c, find the distance for all characters in the string to the character c in the string s. You can assume that the character c will appear at least once in the string.
+
+[Solution](solutions/day_169.py)
