@@ -1447,4 +1447,4 @@ This problem was asked by Uber.
 
 Given a string s and a character c, find the distance for all characters in the string to the character c in the string s. You can assume that the character c will appear at least once in the string.
 
-[Solution](solutions/day_169.py)
+[Solution](solutions/day_168.py)
