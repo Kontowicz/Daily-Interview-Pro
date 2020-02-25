@@ -485,6 +485,7 @@ This problem was asked by Google.
 You are given a stream of numbers. Compute the median for each new element .
 
 [Solution](solutions/day_52.py)
+
 ---
 
 ### Problem 53
@@ -493,6 +494,7 @@ This problem was asked by Google.
 You are given an array of tuples (start, end) representing time intervals for lectures. The intervals may be overlapping. Return the number of rooms that are required.
 
 [Solution](solutions/day_53.py)
+
 ---
 
 ### Problem 54
@@ -501,6 +503,7 @@ This problem was asked by Facebook.
 Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
 [Solution](solutions/day_54.py)
+
 ---
 
 ### Problem 55
@@ -509,6 +512,7 @@ This problem was asked by Facebook.
 Given a sorted list of numbers, return a list of strings that represent all of the consecutive numbers.
 
 [Solution](solutions/day_55.py)
+
 ---
 
 ### Problem 56
@@ -517,6 +521,7 @@ This problem was asked by Amazon.
 You are given an array of integers. Return an array of the same size where the element at each index is the product of all the elements in the original array except for the element at that index.
 
 [Solution](solutions/day_56.py)
+
 ---
 
 ### Problem 57
@@ -525,6 +530,7 @@ This problem was asked by Microsoft.
 You are given an array of integers. Return the length of the longest increasing subsequence (not necessarily contiguous) in the array.
 
 [Solution](solutions/day_57.py)
+
 ---
 
 ### Problem 58
@@ -533,6 +539,7 @@ This problem was asked by Microsoft.
 Given a time in the format of hour and minute, calculate the angle of the hour and minute hand on a clock.
 
 [Solution](solutions/day_58.py)
+
 ---
 
 ### Problem 59
@@ -541,6 +548,7 @@ This problem was asked by Apple.
 You are given a binary tree representation of an arithmetic expression. In this tree, each leaf is an integer value,, and a non-leaf node is one of the four operations: '+', '-', '*', or '/'.
 
 [Solution](solutions/day_59.py)
+
 ---
 
 ### Problem 60
@@ -552,6 +560,7 @@ You are given the root of a binary tree. You need to implement 2 functions:
 2. deserialize(s) which deserializes the string back to the original tree that it represents
 
 [Solution](solutions/day_60.py)
+
 ---
 
 ### Problem 61
@@ -564,6 +573,7 @@ The rules of giving bonuses is that:
 - For each employee, if they perform better than the person sitting next to them, the employee is given +1 higher bonus (and up to +2 if they perform better than both people to their sides).
 
 [Solution](solutions/day_61.py)
+
 ---
 
 ### Problem 62
@@ -572,6 +582,7 @@ This problem was asked by Twitter.
 Given a list of integers, return the bounds of the minimum range that must be sorted so that the whole list would be sorted.
 
 [Solution](solutions/day_62.py)
+
 ---
 
 ### Problem 63
@@ -580,6 +591,7 @@ This problem was asked by Uber.
 Design a simple stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
 [Solution](solutions/day_63.py)
+
 ---
 
 ### Problem 64
@@ -588,6 +600,7 @@ This problem was asked by Google.
 Given a binary tree, remove the nodes in which there is only 1 child, so that the binary tree is a full binary tree.
 
 [Solution](solutions/day_64.py)
+
 ---
 
 ### Problem 65
@@ -596,6 +609,7 @@ This problem was asked by Google.
 Given a string with a certain rule: k[string] should be expanded to string k times. So for example, 3[abc] should be expanded to abcabcabc. Nested expansions can happen, so 2[a2[b]c] should be expanded to abbcabbc.
 
 [Solution](solutions/day_65.py)
+
 ---
 
 ### Problem 66
@@ -606,6 +620,7 @@ Two words can be 'chained' if the last character of the first word is the same a
 Given a list of words, determine if there is a way to 'chain' all the words in a circle.
 
 [Solution](solutions/day_66.py)
+
 ---
 
 ### Problem 67
@@ -614,6 +629,7 @@ This problem was asked by Facebook.
 Starting at index 0, for an element n at index i, you are allowed to jump at most n indexes ahead. Given a list of numbers, find the minimum number of jumps to reach the end of the list.
 
 [Solution](solutions/day_67.py)
+
 ---
 
 ### Problem 68
@@ -622,6 +638,7 @@ This problem was asked by Amazon.
 The h-index is a metric that attempts to measure the productivity and citation impact of the publication of a scholar. The definition of the h-index is if a scholar has at least h of their papers cited h times. 
 
 [Solution](solutions/day_68.py)
+
 ---
 
 ### Problem 69
@@ -630,6 +647,7 @@ This problem was asked by Microsoft.
 A k-ary tree is a tree with k-children, and a tree is symmetrical if the data of the left side of the tree is the same as the right side of the tree.
 
 [Solution](solutions/day_69.py)
+
 ---
 
 ### Problem 70
@@ -638,6 +656,7 @@ This problem was asked by Microsoft.
 Given a list of numbers of size n, where n is greater than 3, find the maximum and minimum of the list using less than 2 * (n - 1) comparisons.
 
 [Solution](solutions/day_70.py)
+
 ---
 
 ### Problem 71
@@ -646,6 +665,7 @@ This problem was asked by Apple.
 The Fibonacci sequence is the integer sequence defined by the recurrence relation: F(n) = F(n-1) + F(n-2), where F(0) = 0 and F(1) = 1. In other words, the nth Fibonacci number is the sum of the prior two Fibonacci numbers. Below are the first few values of the sequence:
 
 [Solution](solutions/day_71.py)
+
 ---
 
 ### Problem 72
@@ -654,6 +674,7 @@ This problem was asked by Apple.
 Given an array of integers, arr, where all numbers occur twice except one number which occurs once, find the number. Your solution should ideally be O(n) time and use constant extra space. 
 
 [Solution](solutions/day_72.py)
+
 ---
 
 ### Problem 73
@@ -662,6 +683,7 @@ This problem was asked by Twitter.
 Given a Roman numeral, find the corresponding decimal value. Inputs will be between 1 and 3999. 
 
 [Solution](solutions/day_73.py)
+
 ---
 
 ### Problem 74
@@ -670,6 +692,7 @@ This problem was asked by Twitter.
 Given an array of characters with repeats, compress it in place. The length after compression should be less than or equal to the original array.
 
 [Solution](solutions/day_74.py)
+
 ---
 
 ### Problem 75
@@ -678,6 +701,7 @@ This problem was asked by Uber.
 Given a number of integers, combine them so it would create the largest number.
 
 [Solution](solutions/day_75.py)
+
 ---
 
 ### Problem 76
@@ -686,6 +710,7 @@ This problem was asked by AirBNB.
 Given a sorted list of positive numbers, find the smallest positive number that cannot be a sum of any subset in the list.
 
 [Solution](solutions/day_76.py)
+
 ---
 
 ### Problem 77
@@ -694,6 +719,7 @@ This problem was asked by Facebook.
 You are given the root of a binary tree. Find the path between 2 nodes that maximizes the sum of all the nodes in the path, and return the sum. The path does not necessarily need to go through the root.
 
 [Solution](solutions/day_77.py)
+
 ---
 
 ### Problem 78
@@ -702,6 +728,7 @@ This problem was asked by Facebook.
 You are given an array of integers. Return all the permutations of this array.
 
 [Solution](solutions/day_78.py)
+
 ---
 
 ### Problem 79
@@ -710,6 +737,7 @@ This problem was asked by Amazon.
 For example, the input array [100, 4, 200, 1, 3, 2] has the longest consecutive sequence 1, 2, 3, 4, and thus, you should return its length, 4.
 
 [Solution](solutions/day_79.py)
+
 ---
 
 ### Problem 80
@@ -718,6 +746,7 @@ This problem was asked by Amazon.
 You are given an array of integers, and an integer K. Return the subarray which sums to K. You can assume that a solution will always exist.
 
 [Solution](solutions/day_80.py)
+
 ---
 
 ### Problem 81
@@ -726,6 +755,7 @@ This problem was asked by Microsoft.
 You are given a doubly linked list. Determine if it is a palindrome. 
 
 [Solution](solutions/day_81.py)
+
 ---
 
 ### Problem 82
@@ -734,6 +764,7 @@ This problem was asked by Microsoft.
 Given the root of a binary tree, print its level-order traversal. 
 
 [Solution](solutions/day_82.py)
+
 ---
 
 ### Problem 83
@@ -743,6 +774,7 @@ You are given two strings, A and B. Return whether A can be shifted some number 
 Eg. A = abcde, B = cdeab should return true because A can be shifted 3 times to the right to get B. A = abc and B= acb should return false. 
 
 [Solution](solutions/day_83.py)
+
 ---
 
 ### Problem 84
@@ -751,6 +783,7 @@ This problem was asked by Twitter.
 You are given the root of a binary tree. Find the level for the binary tree with the minimum sum, and return that value.
 
 [Solution](solutions/day_84.py)
+
 ---
 
 ### Problem 85
@@ -759,6 +792,7 @@ This problem was asked by Twitter.
 Given an array of integers of size n, where all elements are between 1 and n inclusive, find all of the elements of [1, n] that do not appear in the array. Some numbers may appear more than once.
 
 [Solution](solutions/day_85.py)
+
 ---
 
 ### Problem 86
@@ -767,6 +801,7 @@ This problem was asked by LinkedIn.
 Given a non-empty array where each element represents a digit of a non-negative integer, add one to the integer. The most significant digit is at the front of the array and each element in the array contains only one digit. Furthermore, the integer does not have leading zeros, except in the case of the number '0'. 
 
 [Solution](solutions/day_86.py)
+
 ---
 
 ### Problem 87
@@ -775,6 +810,7 @@ This problem was asked by Uber.
 Given a linked list, determine if the linked list has a cycle in it. For notation purposes, we use an integer pos which represents the zero-indexed position where the tail connects to.
 
 [Solution](solutions/day_87.py)
+
 ---
 
 ### Problem 88
@@ -783,6 +819,7 @@ This problem was asked by AirBNB.
 Given a non-empty list of words, return the k most frequent words. The output should be sorted from highest to lowest frequency, and if two words have the same frequency, the word with lower alphabetical order comes first. Input will contain only lower-case letters.
 
 [Solution](solutions/day_88.py)
+
 ---
 
 ### Problem 89
@@ -791,6 +828,7 @@ This problem was asked by Facebook.
 Given a file path with folder names, '..' (Parent directory), and '.' (Current directory), return the shortest possible file path (Eliminate all the '..' and '.').
 
 [Solution](solutions/day_89.py)
+
 ---
 
 ### Problem 90
@@ -799,6 +837,7 @@ This problem was asked by Facebook.
 Given a directed graph, reverse the directed graph so all directed edges are reversed. 
 
 [Solution](solutions/day_90.py)
+
 ---
 
 ### Problem 91
@@ -810,6 +849,7 @@ If version1 < version2 return -1.
 Otherwise return 0. 
 
 [Solution](solutions/day_91.py)
+
 ---
 
 ### Problem 92
@@ -818,6 +858,7 @@ This problem was asked by Amazon.
 MS Excel column titles have the following pattern: A, B, C, ..., Z, AA, AB, ..., AZ, BA, BB, ..., ZZ, AAA, AAB, ... etc. In other words, column 1 is named "A", column 2 is "B", column 26 is "Z", column 27 is "AA" and so forth. Given a positive integer, find its corresponding column name. 
 
 [Solution](solutions/day_92.py)
+
 ---
 
 ### Problem 93
@@ -826,6 +867,7 @@ This problem was asked by Amazon.
 Return the longest run of 1s for a given integer n's binary representation.
 
 [Solution](solutions/day_93.py)
+
 ---
 
 ### Problem 94
@@ -842,6 +884,7 @@ This problem was asked by Apple.
 You are given a tree, and your job is to print it level-by-level with linebreaks.
 
 [Solution](solutions/day_95.py)
+
 ---
 
 ### Problem 96
@@ -850,6 +893,7 @@ This problem was asked by Twitter.
 Given an integer, check if that integer is a palindrome. For this problem do not convert the integer to a string to check if it is a palindrome.
 
 [Solution](solutions/day_96.py)
+
 ---
 
 ### Problem 97
@@ -858,6 +902,7 @@ This problem was asked by Twitter.
 Given a string with only ( and ), find the minimum number of characters to add or subtract to fix the string such that the brackets are balanced.
 
 [Solution](solutions/day_97.py)
+
 ---
 
 ### Problem 98
@@ -866,6 +911,7 @@ This problem was asked by LinkedIn.
 Given a binary tree, find the most frequent subtree sum.
 
 [Solution](solutions/day_98.py)
+
 ---
 
 ### Problem 99
@@ -874,6 +920,7 @@ This problem was asked by Uber.
 You are given a list of n numbers, where every number is at most k indexes away from its properly sorted index. Write a sorting algorithm (that will be given the number k) for this list that can solve this in O(n log k)
 
 [Solution](solutions/day_99.py)
+
 ---
 
 ### Problem 100
@@ -882,6 +929,7 @@ This problem was asked by AirBNB.
 We have a list of tasks to perform, with a cooldown period. We can do multiple of these at the same time, but we cannot run the same task simultaneously.
 
 [Solution](solutions/day_100.py)
+
 ---
 
 ### Problem 101
@@ -896,6 +944,7 @@ This certain function is as follows:
 - Repeat.
 
 [Solution](solutions/day_101.py)
+
 ---
 
 ### Problem 102
@@ -904,6 +953,7 @@ This problem was asked by Amazon.
 Given a binary tree and a given node value, return all of the node's cousins. Two nodes are considered cousins if they are on the same level of the tree with different parents. You can assume that all nodes will have their own unique value.
 
 [Solution](solutions/day_102.py)
+
 ---
 
 ### Problem 103
@@ -912,6 +962,7 @@ This problem was asked by Apple.
 A fixed point in a list is where the value is equal to its index. So for example the list [-5, 1, 3, 4], 1 is a fixed point in the list since the index and value is the same. Find a fixed point (there can be many, just return 1) in a sorted list of distinct elements, or return None if it doesn't exist.
 
 [Solution](solutions/day_103.py)
+
 ---
 
 ### Problem 104
@@ -920,6 +971,7 @@ This problem was asked by Apple.
 Given a binary tree, return the list of node values in zigzag order traversal. Here's an example
 
 [Solution](solutions/day_104.py)
+
 ---
 
 ### Problem 105
@@ -928,6 +980,7 @@ This problem was asked by Twitter.
 Given a list of numbers, find the smallest window to sort such that the whole list will be sorted. If the list is already sorted return (0, 0). You can assume there will be no duplicate numbers
 
 [Solution](solutions/day_105.py)
+
 ---
 
 ### Problem 106
@@ -936,6 +989,7 @@ This problem was asked by Uber.
 Given a postorder traversal for a binary search tree, reconstruct the tree. A postorder traversal is a traversal order where the left child always comes before the right child, and the right child always comes before the parent for all nodes.
 
 [Solution](solutions/day_106.py)
+
 ---
 
 ### Problem 107
@@ -944,6 +998,7 @@ This problem was asked by Google.
 Given two strings, find if there is a one-to-one mapping of characters between the two strings.
 
 [Solution](solutions/day_107.py)
+
 ---
 
 ### Problem 108
@@ -952,6 +1007,7 @@ This problem was asked by Google.
 Given a nested dictionary, flatten the dictionary, where nested dictionary keys can be represented through dot notation.
 
 [Solution](solutions/day_108.py)
+
 ---
 
 ### Problem 109
@@ -960,6 +1016,7 @@ This problem was asked by Facebook.
 Given an expression (as a list) in reverse polish notation, evaluate the expression. Reverse polish notation is where the numbers come before the operand. Note that there can be the 4 operands '+', '-', '*', '/'. You can also assume the expression will be well formed.
 
 [Solution](solutions/day_109.py)
+
 ---
 
 ### Problem 110
@@ -968,6 +1025,7 @@ This problem was asked by Facebook.
 Given a list of words, for each word find the shortest unique prefix. You can assume a word will not be a substring of another word (ie play and playing won't be in the same words list)
 
 [Solution](solutions/day_110.py)
+
 ---
 
 ### Problem 111
@@ -976,6 +1034,7 @@ This problem was asked by Amazon.
 Given a string, return the first recurring letter that appears. If there are no recurring letters, return None.
 
 [Solution](solutions/day_111.py)
+
 ---
 
 ### Problem 112
@@ -986,6 +1045,7 @@ A maze is a matrix where each cell can either be a 0 or 1. A 0 represents that t
 Given a nxm matrix, find the number of ways someone can go from the top left corner to the bottom right corner. You can assume the two corners will always be 0.
 
 [Solution](solutions/day_112.py)
+
 ---
 
 ### Problem 113
@@ -994,6 +1054,7 @@ This problem was asked by Microsoft.
 Given a string, determine if there is a way to arrange the string such that the string is a palindrome. If such arrangement exists, return a palindrome (There could be many arrangements). Otherwise return None.
 
 [Solution](solutions/day_113.py)
+
 ---
 
 ### Problem 114
@@ -1002,6 +1063,7 @@ This problem was asked by Apple.
 Given a list of points, an interger k, and a point p, find the k closest points to p.
 
 [Solution](solutions/day_114.py)
+
 ---
 
 ### Problem 115
@@ -1010,6 +1072,7 @@ This problem was asked by Apple.
 Create a class that initializes with a list of numbers and has one method called sum. sum should take in two parameters, start_idx and end_idx and return the sum of the list from start_idx (inclusive) to end_idx` (exclusive).
 
 [Solution](solutions/day_115.py)
+
 ---
 
 ### Problem 116
@@ -1018,6 +1081,7 @@ This problem was asked by Twitter.
 Given a linked list, swap the position of the 1st and 2nd node, then swap the position of the 3rd and 4th node etc.
 
 [Solution](solutions/day_116.py)
+
 ---
 
 ### Problem 117
@@ -1026,6 +1090,7 @@ This problem was asked by Uber.
 Given a list of possible coins in cents, and an amount (in cents) n, return the minimum number of coins needed to create the amount n. If it is not possible to create the amount using the given coin denomination, return None.
 
 [Solution](solutions/day_117.py)
+
 ---
 
 ### Problem 118
@@ -1034,6 +1099,7 @@ This problem was asked by AirBNB.
 Given a phone number, return all valid words that can be created using that phone number.
 
 [Solution](solutions/day_118.py)
+
 ---
 
 ### Problem 119
@@ -1042,6 +1108,7 @@ This problem was asked by Google.
 Given a binary tree, find and return the largest path from root to leaf.
 
 [Solution](solutions/day_119.py)
+
 ---
 
 ### Problem 120
@@ -1050,6 +1117,7 @@ This problem was asked by Facebook.
 Given an array and an integer k, rotate the array by k spaces. Do this without generating a new array and without using extra space.
 
 [Solution](solutions/day_120.py)
+
 ---
 
 ### Problem 121
@@ -1058,6 +1126,7 @@ This problem was asked by Amazon.
 Given a 2d n x m matrix where each cell has a certain amount of change on the floor, your goal is to start from the top left corner mat[0][0] and end in the bottom right corner mat[n - 1][m - 1] with the most amount of change. You can only move either left or down.
 
 [Solution](solutions/day_121.py)
+
 ---
 
 ### Problem 122
@@ -1066,6 +1135,7 @@ This problem was asked by Microsoft.
 Given a list of sorted numbers (can be both negative or positive), return the list of numbers squared in sorted order.
 
 [Solution](solutions/day_122.py)
+
 ---
 
 ### Problem 123
@@ -1204,6 +1274,7 @@ This problem was asked by AirBNB.
 Given a list of sorted numbers, and two integers k and x, find k closest numbers to the pivot x.
 
 [Solution](solutions/day_139.py)
+
 ---
 
 ### Problem 140
@@ -1212,6 +1283,7 @@ This problem was asked by Google.
 Given a list of numbers, for each element find the next element that is larger than the current element. Return the answer as a list of indices. If there are no elements larger than the current element, then use -1 instead.
 
 [Solution](solutions/day_140.py)
+
 ---
 
 ### Problem 141
@@ -1220,6 +1292,7 @@ This problem was asked by Facebook.
 Given a list of meetings that will happen during a day, find the minimum number of meeting rooms that can fit all meetings.
 
 [Solution](solutions/day_141.py)
+
 ---
 
 ### Problem 142
@@ -1228,6 +1301,7 @@ This problem was asked by Google.
 Given a string, determine if you can remove any character to create a palindrome.
 
 [Solution](solutions/day_142.py)
+
 ---
 
 ### Problem 143
@@ -1236,6 +1310,7 @@ This problem was asked by Amazon.
 Given a positive integer n, find all primes less than n.
 
 [Solution](solutions/day_143.py)
+
 ---
 
 ### Problem 144
@@ -1244,6 +1319,7 @@ This problem was asked by Amazon.
 Given a non-negative integer n, convert the integer to hexadecimal and return the result as a string. Hexadecimal is a base 16 representation of a number, where the digits are 0123456789ABCDEF. Do not use any builtin base conversion functions like hex.
 
 [Solution](solutions/day_144.py)
+
 ---
 
 ### Problem 145
@@ -1252,6 +1328,7 @@ This problem was asked by Apple.
 Given a list of strings, find the list of characters that appear in all strings.
 
 [Solution](solutions/day_145.py)
+
 ---
 
 ### Problem 146
@@ -1260,6 +1337,7 @@ This problem was asked by Twitter.
 Given 3 sorted lists, find the intersection of those 3 lists.
 
 [Solution](solutions/day_146.py)
+
 ---
 
 ### Problem 147
@@ -1268,6 +1346,7 @@ This problem was asked by AirBNB.
 Pascal's Triangle is a triangle where all numbers are the sum of the two numbers above it. Here's an example of the Pascal's Triangle of size 5.
 
 [Solution](solutions/day_147.py)
+
 ---
 
 ### Problem 148
@@ -1276,6 +1355,7 @@ This problem was asked by Twitter.
 Given a matrix, transpose it. Transposing a matrix means the rows are now the column and vice-versa.
 
 [Solution](solutions/day_148.py)
+
 ---
 
 ### Problem 149
@@ -1284,6 +1364,7 @@ This problem was asked by Google.
 Given a list of numbers and a target number n, find 3 numbers in the list that sums closest to the target number n. There may be multiple ways of creating the sum closest to the target number, you can return any combination in any order.
 
 [Solution](solutions/day_149.py)
+
 ---
 
 ### Problem 150     
@@ -1292,6 +1373,7 @@ This problem was asked by Amazon.
 Given an integer, reverse the digits. Do not convert the integer into a string and reverse it.
 
 [Solution](solutions/day_150.py)
+
 ---
 
 ### Problem 151
@@ -1300,6 +1382,7 @@ This problem was asked by Microsoft.
 Given a list of strings, find the longest common prefix between all strings.
 
 [Solution](solutions/day_151.py)
+
 ---
 
 ### Problem 152
@@ -1308,6 +1391,7 @@ This problem was asked by Facebook.
 Given two binary numbers represented as strings, return the sum of the two binary numbers as a new binary represented as a string. Do this without converting the whole binary string into an integer.
 
 [Solution](solutions/day_152.py)
+
 ---
 
 ### Problem 153
@@ -1316,6 +1400,7 @@ This problem was asked by Apple.
 Given a sorted list of size n, with m unique elements (thus m < n), modify the list such that the first m unique elements in the list will be sorted, ignoring the rest of the list. Your solution should have a space complexity of O(1). Instead of returning the list (since you are just modifying the original list), you should return what m is
 
 [Solution](solutions/day_153.py)
+
 ---
 
 ### Problem 154
@@ -1324,6 +1409,7 @@ This problem was asked by Twitter.
 Given a sorted list with duplicates, and a target number n, find the range in which the number exists (represented as a tuple (low, high), both inclusive. If the number does not exist in the list, return (-1, -1)).
 
 [Solution](solutions/day_154.py)
+
 ---
 
 ### Problem 155
@@ -1332,6 +1418,7 @@ This problem was asked by Uber.
 Given a binary tree, and a target number, find if there is a path from the root to any leaf that sums up to the target.
 
 [Solution](solutions/day_155.py)
+
 ---
 
 ### Problem 156
@@ -1340,6 +1427,7 @@ This problem was asked by AirBNB.
 A majority element is an element that appears more than half the time. Given a list with a majority element, find the majority element.
 
 [Solution](solutions/day_156.py)
+
 ---
 
 ### Problem 157
@@ -1348,6 +1436,7 @@ This problem was asked by LinkedIn.
 Given a binary tree, find the minimum depth of the binary tree. The minimum depth is the shortest distance from the root to a leaf.
 
 [Solution](solutions/day_157.py)
+
 ---
 
 ### Problem 158
